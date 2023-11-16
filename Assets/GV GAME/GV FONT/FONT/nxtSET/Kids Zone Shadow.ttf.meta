@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0c1c08c2834df584dbbe8a1967bb25e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kids Zone Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2447639819f13944bbae58142afa542a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 382e68ce4878dc948a45d31ad7acabfa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Olive Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 87bb61d9c96d34f4190a7df601481d71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

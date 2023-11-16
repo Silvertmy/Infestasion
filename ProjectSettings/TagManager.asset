@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - enemylife
+  - Contain
+  - Environment
+  - Open
+  - MainFloor
+  - Hall1Entry1
+  - Hall1Entry2
+  - Hall1Leave1
+  - Hall1Leave2
+  - EXP
+  - Unlock
+  - Key
+  - Key1
+  - Key2
+  - Giant
+  - Zombie
+  - Hostage
+  - EnemyMain
+  - FollowMe
+  - Hostile
+  - EnemyMajor
+  - ZombieGiant
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post Processing
+  - Water
+  - UI
+  - WhatIsGround
+  - WhatIsPlayer
+  - WhatIsLadder
+  - WhatIsEnemy
+  - WhatIsWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
