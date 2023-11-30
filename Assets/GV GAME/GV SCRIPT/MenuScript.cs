@@ -9,6 +9,7 @@ public class MenuScript : MonoBehaviour
 
     public Animator Settings;
     public LevelGameSystem level;
+    public Animator Gift;
 
     public Animator Inventory;
     public SoundManager sound;
@@ -46,6 +47,18 @@ public class MenuScript : MonoBehaviour
     {
         sound.PlaySound();
         Inventory.SetBool("INVENT", false);
+    }
+
+    public void GiftOpen()
+    {
+        sound.PlaySound();
+        Gift.SetBool("GIFT", true);
+    }
+
+    public void GiftExit()
+    {
+        sound.PlaySound();
+        Gift.SetBool("GIFT", false);
     }
 
     public void PlayGame()

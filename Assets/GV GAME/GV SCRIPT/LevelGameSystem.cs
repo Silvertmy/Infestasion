@@ -31,7 +31,7 @@ public class LevelGameSystem : MonoBehaviour
     public GameObject timedown;
 
     ////////////////////////////////////////////////////////
-    public GameObject Notify1, Notify2, Notify3, Notify4, Notify5, Notify6, Notify7, Notify8, Notify9, Notify10, Notify11, Notify12, Notify13, Notify14, Notify15;
+    public GameObject Notify;
     public int Achieve1, Achieve2, Achieve3, Achieve4, Achieve5, Achieve6, Achieve7, Achieve8, Achieve9, Achieve10, Achieve11, Achieve12, Achieve13, Achieve14, Achieve15;
     ////////////////////////////////////////////////////////
     
@@ -272,7 +272,7 @@ public class LevelGameSystem : MonoBehaviour
     public void NextLevel()
     {
         sound.PlaySound();
-        SceneManager.LoadScene("TEST2");//Scene to the Next level;
+        //SceneManager.LoadScene("TEST2");//Scene to the Next level;
     }
 
     public void TimesTwo()

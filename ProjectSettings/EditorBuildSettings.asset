@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/GV GAME/OPENINGSCENE.unity
+    guid: 6f24bdebcb7250b4b820b34935aa5f44
+  - enabled: 1
     path: Assets/GV GAME/GAMEMENU.unity
     guid: 809389676bb50a94192e63aca75dc32a
   - enabled: 1
     path: Assets/GV GAME/TEST.unity
     guid: 375cc2710de007f4d8b37852f031a5ae
-  - enabled: 1
-    path: Assets/GV GAME/TEST2.unity
-    guid: 3f1e7c5cafd526949be1fdfcbdaceca1
   m_configObjects: {}
