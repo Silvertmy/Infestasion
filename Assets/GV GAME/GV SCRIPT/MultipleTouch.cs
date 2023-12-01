@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MultipleTouch : MonoBehaviour
 {
+    /*tHIS Enables multiple touch on a touch screen device*/
     public GameObject circle;
     public List<TouchLocation> touches = new List<TouchLocation>();
 

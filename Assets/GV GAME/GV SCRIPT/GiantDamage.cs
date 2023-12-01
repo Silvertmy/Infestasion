@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GiantDamage : MonoBehaviour
 {
+    /*This script handle the Damage effect of the bullets to the BOSS enemy*/
     public GameObject Ex;
     // Start is called before the first frame update
     void Start()

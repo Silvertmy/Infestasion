@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.AI;
+using UnityEngine.UIElements;
 
 public class ObstaclesLife : MonoBehaviour
 {
+    /*This is an Obsacles damage script*/
     public float _maxHealth = 30;
     public GameObject _deatheffect, _hitEffect;
      

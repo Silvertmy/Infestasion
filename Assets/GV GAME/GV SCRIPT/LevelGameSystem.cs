@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class LevelGameSystem : MonoBehaviour
 {
+    /*This is a detailed break down of the Level script. It will
+    Handle all level actions...All levels will respond/ is controlled by the script*/
     public int Level;
     public Text levelText;
     //for the Guns

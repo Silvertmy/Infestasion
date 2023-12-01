@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MenuScript : MonoBehaviour
 {
-    //THIS SCRIPT WILL HANDLE THE HOME MENU'S VARIOUS MENU ANIMATIONS.
+    //THIS SCRIPT WILL HANDLE THE HOME MENU'S VARIOUS MENU ANIMATIONS and Button actions.
 
     public Animator Settings;
     public LevelGameSystem level;

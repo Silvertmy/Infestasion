@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Weapon_2 : MonoBehaviour
 {
+    /*This is script handles the basic physics of a gun with high recoil rate..like the AK 47*/
     public float cooldownSpeed;
  
     public float fireRate;

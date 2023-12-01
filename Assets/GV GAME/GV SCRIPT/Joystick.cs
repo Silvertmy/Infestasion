@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Joystick : MonoBehaviour
 {
+    /*Ths is in a case where i might turn this game into a free roam game...maybe a Third person shooter*/
     public Transform player;
     public float speed = 5.0f;
     private bool touchStart = false;

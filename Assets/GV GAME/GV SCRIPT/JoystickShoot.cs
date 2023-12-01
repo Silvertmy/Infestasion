@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 
 public class JoystickShoot : MonoBehaviour, IDragHandler, IPointerDownHandler, IPointerUpHandler
 {
+    /*Joy button for shooting */
     public Transform player;
     public float speed = 15.0f;
 

@@ -6,6 +6,7 @@ using UnityEngine.AI;
 
 public class EnemyLife : MonoBehaviour
 {
+    /*This works with the Enemy healthscript and handles the health bar and life of the enemy*/
     public float _maxHealth = 30;
     public GameObject _deatheffect, _hitEffect;
      

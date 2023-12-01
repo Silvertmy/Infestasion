@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class EnemyAI : MonoBehaviour
 {
+    /*This script will handle the 1st grade of enemies. It will select how they attack and why they attack*/
     public NavMeshAgent agent;
     public Transform player;
     public LayerMask whatIsGround, whatIsPlayer;

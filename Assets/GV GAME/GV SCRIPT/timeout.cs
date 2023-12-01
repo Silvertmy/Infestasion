@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class timeout : MonoBehaviour
 {
+    /*This Script will handle the count down of the Logo opening scene before it switches automatically to the Game Menu Scene*/
     public float interval;
 	public int timemet = 17;
 	

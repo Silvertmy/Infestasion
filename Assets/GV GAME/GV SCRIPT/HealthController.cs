@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
+    /*This actually is for the health bar.. so thet one actually sees the damage effects*/
     [SerializeField]
     private Image _healthbarSprite;
 

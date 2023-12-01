@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class EnemyAI_2 : MonoBehaviour
 {
+    /*This script will handle the 2nd grade of enemies. It will select how they attack and why they attack*/
     private Transform player;
     private float dist;
     public float moveSpeed;

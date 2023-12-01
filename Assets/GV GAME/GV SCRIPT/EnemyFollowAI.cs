@@ -5,6 +5,8 @@ using UnityEngine.AI;
 
 public class EnemyFollowAI : MonoBehaviour
 {
+    /*This script will handle the AI understanding of the Main Enemy. It will handle the Main Enemies ability
+    to move through potential paths and attack when it is required to attack*/
     private Transform player;
     private NavMeshAgent agent;
 

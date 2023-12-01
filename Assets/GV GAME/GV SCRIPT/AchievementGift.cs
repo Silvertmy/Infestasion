@@ -5,6 +5,9 @@ using UnityEngine.UIElements;
 
 public class AchievementGift : MonoBehaviour
 {
+    /*This Script is a demo script for Handling the selection of gifts based
+     on certain game criteria being met...It is not perfect but a test run of
+     what the gift menu should functionas*/
     public GameObject Gbutton1, Gbutton2, Gbutton3, Gbutton4, Gbutton5, Gbutton6, Gbutton7, Gbutton8, Gbutton9, Gbutton10, Gbutton11, Gbutton12, Gbutton13, Gbutton14, Gbutton15;
 
     public GameObject Selected1, Selected2, Selected3, Selected4, Selected5, Selected6, Selected7, Selected8, Selected9, Selected10, Selected11, Selected12, Selected13, Selected14, Selected15;

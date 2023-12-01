@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class HostageHealth : MonoBehaviour
 {
+    /*This Handles the health effect of the hostage*/
     public float _maxHealth = 30;
     public GameObject _deatheffect, _hitEffect;
      

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FollowCam : MonoBehaviour
 {
+    /*This is a script that will handle the Cameras ability to follow the player*/
     public Transform target;  // Reference to the target object the camera will follow.
     public float smoothSpeed = 5f;  // Adjust the smoothness of the camera follow.
 

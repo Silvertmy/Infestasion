@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class BlastScript : MonoBehaviour
 {
+    /*tHIS SCRIPT HANDLES BLAST EFFECT BY CREATING LINE RENDERED PHYSICS THAT SPANS AND COLLIDES OVER A SPECIFIED RADIUS*/
     [SerializeField] int pointsCount;
     [SerializeField] float maxRadius;
     [SerializeField] float speed;

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MoveBullet : MonoBehaviour
 {
+    /*This handles the speed and movement of the bullet when instantated and also the various damage effects for several Obstacles*/
     public Vector3 hitPoint;
  
     public GameObject dirt;

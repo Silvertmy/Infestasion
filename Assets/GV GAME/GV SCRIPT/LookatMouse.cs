@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class LookatMouse : MonoBehaviour
 {
+    /*This is more like a focus script for the mouse*/
+
     public float rotationSpeed = 90f; // Adjust the speed as needed
 
     void Update()

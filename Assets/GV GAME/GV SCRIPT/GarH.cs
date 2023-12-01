@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class GarH : MonoBehaviour
 {
+    /*Thsi script actually just handles the fog plane ....gives the scene this creepy kind of theme*/
     public Camera cam;
     Collider planecollider;
     RaycastHit hit;

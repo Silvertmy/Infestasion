@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 public class GiantFollow : MonoBehaviour
 {
+    /*This guides the giant to the player....something like the followEN script*/
     private Transform player;
     private NavMeshAgent agent;
 

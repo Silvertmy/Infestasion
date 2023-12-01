@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class CharacterHealth : MonoBehaviour
 {
+    //This script handles the bar of a the characters health
      [SerializeField]
     private Image _healthbarSprite;
 

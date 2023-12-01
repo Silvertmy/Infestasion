@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class GiantLife : MonoBehaviour
 {
+    /*This handles the health of the Giant*/
     public float _maxHealth = 30;
     public GameObject _deatheffect, _hitEffect;
      

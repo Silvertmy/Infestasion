@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EffectOff : MonoBehaviour
 {
+	/*Just handles the bust effects when the game is over ...something like fire works*/
     public float interval;
 	public int timemet = 17;
 

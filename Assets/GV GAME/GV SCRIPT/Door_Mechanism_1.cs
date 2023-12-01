@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Door_Mechanism_1 : MonoBehaviour
 {
+    /*This is a script designed to animate technological advanced sliding doors in the game*/
     public Animator Door_Motion;
     public GameObject entry;
     public GameObject dipart;

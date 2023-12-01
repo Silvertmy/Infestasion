@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class FiringScript : MonoBehaviour
 {
+    /*This script handle the actual workings of a gun with high firing rate....much like an AK 47 */
+
     public float cooldownSpeed;
  
     public float fireRate;
